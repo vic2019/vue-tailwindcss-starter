@@ -1,4 +1,4 @@
-# garbo_client
+# Vue Starter
 
 ## Project setup
 ```
